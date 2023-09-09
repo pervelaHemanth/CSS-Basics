@@ -1,0 +1,18 @@
+h1{
+    color: blueviolet; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: rgb(0, 201, 50); 
+    padding: 10px; background-color: azure; 
+    font-weight: bold; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: powderblue;
+    border: 2px solid rgb(101, 124, 252);
+    padding: 10px;
+    margin: 20px;
+}
