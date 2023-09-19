@@ -1,0 +1,27 @@
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: rgb(80, 78, 78);
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;    
+}
+
+li a:hover{
+    cursor: pointer;
+    background-color: black;
+}
+
+.homeButton{
+    background-color: red;
+}
